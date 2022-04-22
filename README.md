@@ -2,16 +2,16 @@
 import Desenvolvedor from '@mateusalmeidah';
 
 class SobreMim extends Desenvolvedor {
-  local = 'Brasil, Nordeste';
-  nome     = 'Mateus Almeida';
-  trabalho  = 'Ânima Educação';
-  area    = 'Analista de Marketing, Segurança da Informação';
+  location = 'Brazil, Northeast';
+  name     = 'Mateus Almeida';
+  work  = 'Ânima Educação';
+  area    = 'Marketing Analyst, Information Security';
 }
 
 class Skills extends Desenvolvedor {
-  idiomas  = ['Português, Inglês'];
-  linguagens  = ['Python, HTML, CSS, JavaScript, Java, SQL'];
-  outros = ['Sales Force, Datorama, Monday, Marketing Cloud '];
+  Programming languages  = ['Portuguese, English'];
+  languages  = ['Python, HTML, CSS, JavaScript, Java, SQL'];
+  others = ['Sales Force, Datorama, Monday, Marketing Cloud '];
 }
 ```
 
