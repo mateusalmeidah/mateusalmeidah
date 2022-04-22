@@ -9,9 +9,9 @@ class About me extends Developer {
 }
 
 class Skills extends Developer {
-  programmingLanguages  = ['Portuguese, English'];
-  languages  = ['Python, HTML, CSS, JavaScript, Java, SQL'];
+  languages = ['Portuguese, English'];
   others = ['Sales Force, Datorama, Monday, Marketing Cloud '];
+  programmingLanguages = ['Python, HTML, CSS, JavaScript, Java, SQL'];
 }
 ```
 
