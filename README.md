@@ -2,10 +2,10 @@
 import Developer from '@mateusalmeidah';
 
 class About me extends Developer {
-  work  = 'Ânima Educação';
+  work     = 'Ânima Educação';
   name     = 'Mateus Almeida';
   location = 'Brazil, Northeast';
-  area    = 'Marketing Analyst, Information Security';
+  area     = 'Marketing Analyst, Information Security';
 }
 
 class Skills extends Developer {
