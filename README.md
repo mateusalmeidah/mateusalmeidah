@@ -6,6 +6,7 @@ class SobreMim extends Desenvolvedor {
   name     = 'Mateus Almeida';
   work  = 'Ânima Educação';
   area    = 'Marketing Analyst, Information Security';
+  testing
 }
 
 class Skills extends Desenvolvedor {
