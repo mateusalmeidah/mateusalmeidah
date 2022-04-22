@@ -2,9 +2,9 @@
 import Desenvolvedor from '@mateusalmeidah';
 
 class SobreMim extends Desenvolvedor {
-  location = 'Brazil, Northeast';
-  name     = 'Mateus Almeida';
   work  = 'Ânima Educação';
+  name     = 'Mateus Almeida';
+  location = 'Brazil, Northeast';
   area    = 'Marketing Analyst, Information Security';
 }
 
