@@ -9,7 +9,7 @@ class SobreMim extends Desenvolvedor {
 }
 
 class Skills extends Desenvolvedor {
-  Programming languages  = ['Portuguese, English'];
+  programming languages  = ['Portuguese, English'];
   languages  = ['Python, HTML, CSS, JavaScript, Java, SQL'];
   others = ['Sales Force, Datorama, Monday, Marketing Cloud '];
 }
