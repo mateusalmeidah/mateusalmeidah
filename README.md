@@ -1,16 +1,16 @@
 ```js
-import Desenvolvedor from '@mateusalmeidah';
+import Developer from '@mateusalmeidah';
 
-class SobreMim extends Desenvolvedor {
+class About me extends Developer {
   work  = 'Ânima Educação';
   name     = 'Mateus Almeida';
   location = 'Brazil, Northeast';
   area    = 'Marketing Analyst, Information Security';
 }
 
-class Skills extends Desenvolvedor {
+class Skills extends Developer {
   programming languages  = ['Portuguese, English'];
-  languages  = ['Python, HTML, CSS, JavaScript, Java, SQL'];
+  language  = ['Python, HTML, CSS, JavaScript, Java, SQL'];
   others = ['Sales Force, Datorama, Monday, Marketing Cloud '];
 }
 ```
