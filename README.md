@@ -1,7 +1,7 @@
 ```js
 import Developer from '@mateusalmeidah';
 
-class About me extends Developer {
+class AboutMe extends Developer {
   work     = 'Ânima Educação';
   name     = 'Mateus Almeida';
   location = 'Brazil, Northeast';
