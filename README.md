@@ -5,7 +5,7 @@ class AboutMe extends Developer {
   work     = 'Ânima Educação';
   name     = 'Mateus Almeida';
   location = 'Brazil, Northeast';
-  area     = 'Marketing Analyst, Information Security';
+  area     = 'Marketing Analyst, Data Analyst';
 }
 
 class Skills extends Developer {
