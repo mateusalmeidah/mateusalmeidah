@@ -2,15 +2,15 @@
 import Developer from '@mateusalmeidah';
 
 class AboutMe extends Developer {
-  work     = 'Marketdata';
+  work     = 'BTG Pactual';
   name     = 'Mateus Almeida';
   location = 'Brazil, Northeast';
-  area     = 'Marketing Analyst, Data Analyst';
+  area     = 'Marketing Analyst, Data Analyst', It Analyst;
 }
 
 class Skills extends Developer {
   languages = ['Portuguese, English'];
-  others = ['Sales Force, Datorama, Monday, Marketing Cloud '];
+  others = ['Salesforce, Marketing Cloud', Data Cloud'];
   programmingLanguages = ['SQL, CSS, HTML, Python, JavaScript'];
 }
 ```
