@@ -11,7 +11,7 @@ class AboutMe extends Developer {
 class Skills extends Developer {
   languages = ['Portuguese, English'];
   others = ['Salesforce, Marketing Cloud', Data Cloud'];
-  programmingLanguages = ['SQL, CSS, HTML, Python, JavaScript'];
+  programmingLanguages = ['AMPscript, 'SQL, CSS, Python, JavaScript'];
 }
 ```
 
